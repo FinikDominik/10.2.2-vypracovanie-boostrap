@@ -1,0 +1,13 @@
+.headerbox {
+    padding: 5px;
+    background-color: blueviolet;
+}
+button:hover{
+    box-shadow: inset 0 0 8px #f9f8fc;
+            background-image: linear-gradient(0deg, rgb(241, 245, 242), rgb(160, 221, 125));
+}
+.headerbox > button > a{
+    text-decoration: none;
+    color: blueviolet;
+
+}
